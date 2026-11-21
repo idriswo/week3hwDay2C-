@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\Day2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\Day2C#.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\Day2C#.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\Day2C#.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\bin\Debug\net10.0\Day2C#.exe
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\bin\Debug\net10.0\Day2C#.deps.json
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\bin\Debug\net10.0\Day2C#.runtimeconfig.json
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\bin\Debug\net10.0\Day2C#.dll
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\bin\Debug\net10.0\Day2C#.pdb
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\Day2C#.dll
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\refint\Day2C#.dll
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\Day2C#.pdb
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\Day2C#.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\week3C#\Day2C#\obj\Debug\net10.0\ref\Day2C#.dll
